@@ -1,0 +1,13 @@
+[
+  { "name": "Apples",   "priority": "med",  "count": 12,    "tags": ["grocery", "fruit"],       "checked": false },
+  { "name": "Bananas",  "priority": "med",  "count": 6,     "tags": ["grocery", "fruit"],       "checked": true },
+  { "name": "Celery",   "priority": "low",  "count": null,  "tags": ["grocery", "veggie"],      "checked": false },
+  { "name": "Lettuce",  "priority": "low",  "count": null,  "tags": ["grocery", "veggie"],      "checked": false },
+  { "name": "Bread",    "priority": "med",  "count": null,  "tags": ["grocery", "grain"],       "checked": true },
+  { "name": "Milk",     "priority": "high", "count": null,  "tags": ["grocery", "dairy"],       "checked": false },
+  { "name": "Wine",     "priority": "high", "count": 6,     "tags": ["grocery", "alcohol"],     "checked": true },
+  { "name": "IceCream", "priority": "low",  "count": null,  "tags": ["grocery", "treat"],       "checked": false },
+  { "name": "Jeans",    "priority": "med",  "count": 2,     "tags": ["clothing"],               "checked": true },
+  { "name": "Shoes",    "priority": "high", "count": 2,     "tags": ["shoes"],                  "checked": false },
+  { "name": "Tablet",   "priority": "high", "count": 1,     "tags": ["online", "electronics"],  "checked": true }
+]
